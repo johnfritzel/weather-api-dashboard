@@ -1,6 +1,6 @@
 # Weather Dashboard Powered by OpenWeatherMap API
 !["Dashboard"](preview.png)
-A comprehensive weather data collection and visualization system that combines Python-based data collection with Power BI analytics. The system collects weather data from 300+ major cities worldwide and presents it through interactive dashboards.
+A comprehensive weather data collection and visualization process that combines Python-based data collection with Power BI analytics. The script collects weather data from 300+ major cities worldwide using OpenWeatherMap API and presents it through interactive dashboards.
 
 &nbsp;
 ## Features
